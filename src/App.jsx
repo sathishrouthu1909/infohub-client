@@ -2,7 +2,9 @@ import { useState } from "react";
 import Weather from "./components/Weather.jsx";
 import Converter from "./components/Converter.jsx";
 import Quote from "./components/Quote.jsx";
-import "./app.css";
+import "./App.css";
+
+
 
 const TABS = ["Weather", "Convert", "Quote"];
 
