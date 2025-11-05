@@ -138,17 +138,6 @@ If no key is added, InfoHub automatically uses mock data.
 
 ---
 
-## 🎥 Demo (Optional)
-
-Record a short 2–3 minute walkthrough using:
-
-* [Loom](https://www.loom.com)
-* [OBS Studio](https://obsproject.com)
-* Windows + G (Screen Recorder)
-
-Highlight all three modules and live URLs.
-
----
 
 ## 🏁 Conclusion
 
